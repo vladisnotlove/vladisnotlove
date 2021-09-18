@@ -2,20 +2,20 @@
 
 I was born in Kazan (Russia) in 1997
 
-I became interested in programming when I was 15 (2012 year)<br />
-I was writing simple programs in Pascal and making games in GameMaker Studio
+I became interested in programming when I was 15 (2012 year)
+I was writing simple programs in Pascal and making games in Game Maker Studio
 
-At 18 I went to Kazan Federal University and studied software engineering (2015 year)
+At 18, I went to Kazan Federal University and studied software engineering (2015 year)
 
-My first experience in frontend was bootsrap html layout for coursework in 2017. After, I was making different websites for study with Django, html, js, css, jQuery
+My first experience in frontend was bootstrap HTML layout for coursework in 2017. After, I was making different websites for study with Django, HTML, JS, CSS, jQuery
 
-From 2018 to 2020 I was making websites mostly landing pages for different people and companies
+From 2018 to 2020 I was making websites, mostly landing pages, for different people and companies
 
-At 22 I was hired by "A 201" as a react frontend developer
+At 22, I was hired by "A 201" as a React frontend developer
 
 ...
 
-In 2025 I earned my first million...
+In 2025, I earned my first million...
 
 ## My skills:
 - React
@@ -36,4 +36,4 @@ vlad.nikolaev@gmail.com |
 <a href="https://github.com/vladisnotlove">github</a>
 
 
-<br />**Privet - hi in Russia*
+<br />**Privet - hi in Russian*
