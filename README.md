@@ -2,7 +2,7 @@
 
 I was born in Kazan (Russia) in 1997
 
-I became interested in programming when I was 15 (2012 year)
+I became interested in programming when I was 15 (2012 year)<br />
 I was writing simple programs in Pascal and making games in Game Maker Studio
 
 At 18, I went to Kazan Federal University and studied software engineering (2015 year)
