@@ -1,4 +1,4 @@
-# Privet*, I'm Vlad, *react frontend developer*
+I'm Vlad, *react frontend developer*
 
 I was born in Kazan (Russia) in 1997
 
@@ -34,6 +34,3 @@ vlad.nikolaev@gmail.com
 <a href="https://t.me/vladisnotlove">telegram</a> | 
 <a href="https://gitlab.com/vladisnotlove">gitlab</a> | 
 <a href="https://github.com/vladisnotlove">github</a>
-
-
-<br />**Privet - hi in Russian*
