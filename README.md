@@ -29,7 +29,7 @@ In 2025, I earned my first million...
 
 ## Contacts
 
-vlad.nikolaev@gmail.com
+vladisnotlove@gmail.com
 
 <a href="https://t.me/vladisnotlove">telegram</a> | 
 <a href="https://gitlab.com/vladisnotlove">gitlab</a> | 
