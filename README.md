@@ -11,11 +11,10 @@ My first experience in frontend was bootstrap HTML layout for coursework in 2017
 
 From 2018 to 2020 I was making websites, mostly landing pages, for different people and companies
 
-At 22, I was hired by "A 201" as a React frontend developer
+In 2020 I was hired by "A 201" as a React frontend developer. I work there from 2020 to 2023 (2.5 years)
 
-...
+In 2023 I started to work in "TatITneft" as React frontend developer
 
-In 2025, I earned my first million...
 
 ## My skills:
 - React
