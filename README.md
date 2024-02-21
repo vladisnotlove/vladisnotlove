@@ -19,12 +19,16 @@ In 2023 I started to work in "TatITneft" as React frontend developer
 ## My skills:
 - React
 - Typescript
-- SASS
-- Next.js 
-- Gatsby 
+- Next.js
+- Vite
+- React router
+- Tanstack router
 - React-query 
 - React-hook-form
-- Styled-components
+- Effector
+- Tailwindcss
+- MUI
+- Ant Design
 
 ## Contacts
 
